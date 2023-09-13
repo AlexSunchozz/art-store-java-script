@@ -106,6 +106,6 @@ const modals = () => {
     openByScroll('.fixed-gift');
 
     showModalByTime('.popup-consultation', 60000);
-}
+};
 
 export default modals;
